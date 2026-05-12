@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de VCN",
+  "description": "Herramienta clínica para calcular la Velocidad de Conducción Nerviosa (VCN) con valores de referencia y guías de interpretación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
